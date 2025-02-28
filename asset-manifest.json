@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-react-app/static/css/main.26f6be7b.css",
+    "main.js": "/Ecommerce-react-app/static/js/main.e61b5091.js",
+    "service-worker.js": "/Ecommerce-react-app/service-worker.js",
+    "index.html": "/Ecommerce-react-app/index.html",
+    "main.26f6be7b.css.map": "/Ecommerce-react-app/static/css/main.26f6be7b.css.map",
+    "main.e61b5091.js.map": "/Ecommerce-react-app/static/js/main.e61b5091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26f6be7b.css",
+    "static/js/main.e61b5091.js"
+  ]
+}
